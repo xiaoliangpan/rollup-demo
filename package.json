@@ -1,8 +1,9 @@
 {
-  "name": "rollup_demo",
+  "name": "@panxiaoliang/rollup_demo",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
+  "files": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c -w"
