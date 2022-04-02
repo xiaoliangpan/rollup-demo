@@ -1,0 +1,18 @@
+/*
+ * @Author: xiaoliang.pan
+ * @Date: 2022-04-02 16:53:42
+ * @LastEditTime: 2022-04-02 16:54:20
+ * @LastEditors: xiaoliang.pan
+ * @Description:
+ * @FilePath: /rollup_demo/tsconfig.json
+ *
+ */
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "ESNext",
+        "strict": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    }
+}
